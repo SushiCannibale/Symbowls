@@ -1,0 +1,7 @@
+[package]
+name = "Symbowls"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glib = "0.20.4"
